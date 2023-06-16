@@ -30,4 +30,3 @@ Go to "Sketch" > "Include Library" > "Add .ZIP Library"
 
 ## Arduino Code
 - [nodemcu.ino](/nodemcu.ino)
-You can copy the above Markdown code and replace the content of your README.md file in your GitHub repository with it. Remember to commit and push the changes to update your repository's README file.
